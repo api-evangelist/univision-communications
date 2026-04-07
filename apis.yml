@@ -1,7 +1,11 @@
 aid: univision-communications
-url: https://raw.githubusercontent.com/api-evangelist/univision-communications/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/univision-communications/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.univision-communications.com
+description: >-
+  Univision Communications is the leading Hispanic media company in the United States,
+  with a portfolio of media properties spanning television, radio, digital, and audio.
