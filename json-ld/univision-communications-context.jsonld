@@ -1,0 +1,148 @@
+{
+  "@context": {
+    "@version": 1.1,
+    "schema": "https://schema.org/",
+    "tu": "https://corporate.televisaunivision.com/ontology#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+
+    "TelevisaUnivision": "schema:Organization",
+    "MediaCompany": "schema:MediaOrganization",
+    "StreamingService": "schema:StreamingService",
+    "BroadcastNetwork": "schema:BroadcastChannel",
+    "RadioStation": "schema:RadioStation",
+    "TelevisionChannel": "schema:TelevisionChannel",
+    "AdvertisingPlatform": "schema:Service",
+    "ContentPlatform": "schema:SoftwareApplication",
+
+    "vix": {
+      "@id": "tu:vix",
+      "@type": "schema:StreamingService"
+    },
+    "uforia": {
+      "@id": "tu:uforia",
+      "@type": "schema:AudioObject"
+    },
+    "univision": {
+      "@id": "tu:univision",
+      "@type": "schema:BroadcastChannel"
+    },
+    "tudn": {
+      "@id": "tu:tudn",
+      "@type": "schema:BroadcastChannel"
+    },
+    "galavision": {
+      "@id": "tu:galavision",
+      "@type": "schema:BroadcastChannel"
+    },
+    "unimas": {
+      "@id": "tu:unimas",
+      "@type": "schema:BroadcastChannel"
+    },
+
+    "name": "schema:name",
+    "description": "schema:description",
+    "url": "schema:url",
+    "identifier": "schema:identifier",
+    "language": "schema:inLanguage",
+    "audience": "schema:audience",
+    "creator": "schema:creator",
+    "publisher": "schema:publisher",
+    "dateCreated": {
+      "@id": "schema:dateCreated",
+      "@type": "xsd:date"
+    },
+    "dateModified": {
+      "@id": "schema:dateModified",
+      "@type": "xsd:date"
+    },
+
+    "contentRating": "schema:contentRating",
+    "genre": "schema:genre",
+    "duration": "schema:duration",
+    "episodeNumber": "schema:episodeNumber",
+    "seasonNumber": "schema:seasonNumber",
+    "videoFormat": "schema:videoFormat",
+    "bitrate": "schema:bitrate",
+    "encodingFormat": "schema:encodingFormat",
+
+    "advertiser": {
+      "@id": "schema:advertiser",
+      "@type": "schema:Organization"
+    },
+    "adFormat": {
+      "@id": "tu:adFormat",
+      "@type": "xsd:string"
+    },
+    "adSegment": {
+      "@id": "tu:adSegment",
+      "@type": "xsd:string"
+    },
+    "householdGraph": {
+      "@id": "tu:householdGraph",
+      "@type": "schema:Dataset"
+    },
+    "turnkeySegment": {
+      "@id": "tu:turnkeySegment",
+      "@type": "schema:Audience"
+    },
+    "cleanRoom": {
+      "@id": "tu:cleanRoom",
+      "@type": "schema:Service"
+    },
+    "programmatic": {
+      "@id": "tu:programmatic",
+      "@type": "xsd:boolean"
+    },
+    "addressable": {
+      "@id": "tu:addressable",
+      "@type": "xsd:boolean"
+    },
+    "ctvInventory": {
+      "@id": "tu:ctvInventory",
+      "@type": "schema:Offer"
+    },
+
+    "hispanicAudience": {
+      "@id": "tu:hispanicAudience",
+      "@type": "schema:Audience"
+    },
+    "bilingualAudience": {
+      "@id": "tu:bilingualAudience",
+      "@type": "schema:Audience"
+    },
+    "spanishLanguage": {
+      "@id": "tu:spanishLanguage",
+      "@type": "xsd:string"
+    },
+
+    "isFreeToWatch": {
+      "@id": "schema:isFamilyFriendly",
+      "@type": "xsd:boolean"
+    },
+    "subscriptionRequired": {
+      "@id": "tu:subscriptionRequired",
+      "@type": "xsd:boolean"
+    },
+    "adSupported": {
+      "@id": "tu:adSupported",
+      "@type": "xsd:boolean"
+    },
+    "fastChannel": {
+      "@id": "tu:fastChannel",
+      "@type": "xsd:boolean"
+    },
+
+    "broadcastNetwork": {
+      "@id": "tu:broadcastNetwork",
+      "@type": "schema:BroadcastChannel"
+    },
+    "stationCount": {
+      "@id": "tu:stationCount",
+      "@type": "xsd:integer"
+    },
+    "radioStationCount": {
+      "@id": "tu:radioStationCount",
+      "@type": "xsd:integer"
+    }
+  }
+}

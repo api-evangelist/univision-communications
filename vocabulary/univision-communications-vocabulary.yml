@@ -1,0 +1,218 @@
+vocabulary:
+  provider: TelevisaUnivision (Univision Communications)
+  description: >-
+    Domain vocabulary for TelevisaUnivision, the world's leading Spanish-language media
+    company. Covers streaming, advertising technology, content distribution, and audience
+    data concepts used across the company's platforms and partner integrations.
+  version: '2026-05-03'
+  tags:
+    - Media
+    - Streaming
+    - Advertising
+    - Hispanic
+    - Television
+
+  terms:
+
+    - term: ViX
+      definition: >-
+        TelevisaUnivision's flagship streaming service and the world's largest Spanish-language
+        OTT platform, offering both free ad-supported (ViX Gratis) and premium subscription
+        (ViX Premium) tiers with over 65,000 hours of content.
+      tags:
+        - Streaming
+        - OTT
+        - Product
+
+    - term: ViX Gratis
+      definition: >-
+        The free, ad-supported tier of the ViX streaming service offering over 65,000 hours
+        and 100+ FAST channels without a subscription fee.
+      tags:
+        - Streaming
+        - AVOD
+        - Free Tier
+
+    - term: ViX Premium
+      definition: >-
+        The paid subscription tier of ViX with exclusive original series, movies, and live
+        sports, available with and without ads.
+      tags:
+        - Streaming
+        - SVOD
+        - Subscription
+
+    - term: FAST Channel
+      definition: >-
+        Free Ad-Supported Streaming TV channels hosted on ViX, providing a linear TV-like
+        experience inside the streaming application.
+      tags:
+        - Streaming
+        - FAST
+        - Advertising
+
+    - term: Uforia
+      definition: >-
+        The largest Spanish-language audio platform in the United States, operating 40 radio
+        stations and streaming audio services targeting U.S. Hispanic audiences.
+      tags:
+        - Audio
+        - Radio
+        - Platform
+
+    - term: TUDN
+      definition: >-
+        TelevisaUnivision Deportes Network — the leading Spanish-language sports television
+        network in the United States, covering soccer, boxing, and major live events.
+      tags:
+        - Sports
+        - Television
+        - Network
+
+    - term: Univision
+      definition: >-
+        The flagship U.S. Spanish-language broadcast television network, the #1 network among
+        U.S. Hispanics with 59 owned and operated television stations.
+      tags:
+        - Television
+        - Broadcast
+        - Network
+
+    - term: UniMás
+      definition: >-
+        A secondary U.S. Spanish-language broadcast television network operated by
+        TelevisaUnivision, offering entertainment, sports, and novela programming.
+      tags:
+        - Television
+        - Broadcast
+        - Network
+
+    - term: Galavisión
+      definition: >-
+        A U.S. Spanish-language cable television channel operated by TelevisaUnivision,
+        specializing in telenovelas, sports, and news content.
+      tags:
+        - Television
+        - Cable
+        - Network
+
+    - term: Household Graph
+      definition: >-
+        TelevisaUnivision's proprietary first-party data asset covering nearly 100% of U.S.
+        Spanish-speaking households, validated by Truthset, used for audience targeting
+        across advertising campaigns.
+      tags:
+        - Data
+        - Advertising
+        - Audience
+
+    - term: Turnkey Segments
+      definition: >-
+        Pre-built, ready-to-activate audience segments (e.g., Parents of Young Children,
+        Travel Enthusiasts) based on TelevisaUnivision's first-party data, available to
+        advertisers for precision targeting campaigns.
+      tags:
+        - Advertising
+        - Audience
+        - Segmentation
+
+    - term: Clean Room
+      definition: >-
+        TelevisaUnivision's privacy-safe data collaboration environment enabling advertisers
+        to create custom audience segments, optimize campaigns, and derive insights without
+        exposing raw personal data.
+      tags:
+        - Advertising
+        - Data
+        - Privacy
+
+    - term: Addressable TV
+      definition: >-
+        Television advertising delivery that targets specific households or audience segments
+        rather than broad demographic groups, enabled by TelevisaUnivision's first-party
+        data infrastructure.
+      tags:
+        - Advertising
+        - Television
+        - Targeting
+
+    - term: Programmatic Advertising
+      definition: >-
+        Automated, data-driven buying and selling of advertising inventory across
+        TelevisaUnivision's digital and streaming properties, including ViX CTV inventory.
+      tags:
+        - Advertising
+        - Programmatic
+        - Automation
+
+    - term: CTV (Connected TV)
+      definition: >-
+        Television content delivered via internet-connected devices (smart TVs, streaming
+        sticks, set-top boxes), a primary advertising channel for ViX inventory.
+      tags:
+        - Advertising
+        - Streaming
+        - Television
+
+    - term: OTT (Over-The-Top)
+      definition: >-
+        Content delivery over the internet, bypassing traditional cable or satellite providers;
+        the distribution model for ViX and Univision NOW.
+      tags:
+        - Streaming
+        - Distribution
+        - Technology
+
+    - term: Así Studios
+      definition: >-
+        TelevisaUnivision's brand studio specializing in Spanish-language advertising content
+        creation, custom creative, and branded storytelling for advertisers targeting Hispanic audiences.
+      tags:
+        - Content
+        - Advertising
+        - Studio
+
+    - term: Hispanic Insights
+      definition: >-
+        TelevisaUnivision's analytics and data platform providing advertisers with actionable
+        insights about U.S. Hispanic and bilingual consumer behavior.
+      tags:
+        - Analytics
+        - Data
+        - Audience
+
+    - term: N+ Univision
+      definition: >-
+        TelevisaUnivision's real-time global news platform offering breaking news, analysis,
+        and multimedia content in Spanish.
+      tags:
+        - News
+        - Digital
+        - Platform
+
+    - term: Univision NOW
+      definition: >-
+        TelevisaUnivision's over-the-top streaming service providing live and on-demand
+        content from Univision, UniMás, TUDN, and Galavisión networks.
+      tags:
+        - Streaming
+        - OTT
+        - Platform
+
+    - term: Telenovela
+      definition: >-
+        A Spanish-language serialized drama format central to TelevisaUnivision's content
+        catalog, produced by Televisa in Mexico and distributed across U.S. networks and ViX.
+      tags:
+        - Content
+        - Entertainment
+        - Format
+
+    - term: POSiBLE
+      definition: >-
+        TelevisaUnivision's financial resource platform supporting Hispanic entrepreneurs
+        with business resources, education, and community connections.
+      tags:
+        - Platform
+        - Community
+        - Hispanic
