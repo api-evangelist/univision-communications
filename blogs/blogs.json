@@ -1,0 +1,13 @@
+{
+  "repo": "univision-communications",
+  "feeds": [
+    {
+      "source": "https://corporate.televisaunivision.com/press/press-releases/",
+      "feed_url": "https://corporate.televisaunivision.com/press/press-releases/feed/",
+      "title": "Corporate Archives - TelevisaUnivision",
+      "saved": 10
+    }
+  ],
+  "fetched": "2026-05-09T20:17:51Z",
+  "post_count": 10
+}
