@@ -2,11 +2,11 @@
   "repo": "univision-communications",
   "feeds": [
     {
-      "source": "https://corporate.televisaunivision.com/press/press-releases/feed/",
+      "source": "https://corporate.televisaunivision.com/press/press-releases/",
       "feed_url": "https://corporate.televisaunivision.com/press/press-releases/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed"
+      "method": "discovered"
     },
     {
       "source": "https://corporate.televisaunivision.com/our-company/",
@@ -16,6 +16,6 @@
       "method": "discovered"
     }
   ],
-  "fetched": "2026-06-01T23:35:02Z",
-  "post_count": 13
+  "post_count": 16,
+  "fetched": "2026-06-14T20:42:17Z"
 }
