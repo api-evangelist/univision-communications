@@ -2,11 +2,18 @@
   "repo": "univision-communications",
   "feeds": [
     {
-      "source": "https://corporate.televisaunivision.com/press/press-releases/",
+      "source": "https://corporate.televisaunivision.com/press/press-releases/feed/",
       "feed_url": "https://corporate.televisaunivision.com/press/press-releases/feed/",
       "title": "",
       "saved": 0,
-      "method": "discovered"
+      "method": "feed"
+    },
+    {
+      "source": "https://corporate.televisaunivision.com/our-company/feed/",
+      "feed_url": "https://corporate.televisaunivision.com/our-company/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://corporate.televisaunivision.com/our-company/",
@@ -17,5 +24,5 @@
     }
   ],
   "post_count": 16,
-  "fetched": "2026-06-14T20:42:17Z"
+  "fetched": "2026-06-27T12:03:07Z"
 }
