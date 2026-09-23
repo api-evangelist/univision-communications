@@ -1,7 +1,9 @@
 ---
 title: Univision Partners With Google to Transform Its Business ...
 url: https://www.prnewswire.com/news-releases/univision-partners-with-google-to-transform-its-business-and-become-the-media-company-of-tomorrow-301276246.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Univision Communications" press release artificial intelligence'
 position: 2
 source: serpapi-google

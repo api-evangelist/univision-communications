@@ -1,7 +1,9 @@
 ---
 title: Univision Local Media Joins the Sinclair and ...
 url: https://www.nexstar.tv/univision-local-media-joins-sinclair-nexstar-consortium-promote-broadcast-spectrum-aggregation-innovation-monetization/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Univision Communications" press release artificial intelligence'
 position: 5
 source: serpapi-google
