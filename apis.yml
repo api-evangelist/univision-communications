@@ -104,6 +104,12 @@ apis:
         url: https://www.uforia.com
 
 common:
+  - type: Plans
+    url: plans/univision-communications-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/univision-communications-rate-limits.yml
+  - type: FinOps
+    url: finops/univision-communications-finops.yml
   - type: DomainSecurity
     url: security/univision-communications-domain-security.yml
   - type: Website
