@@ -64,70 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TelevisaUnivision (formerly Univision Communications) is the world's leading Spanish-language media company, operating television networks (Univision, UniMás, TUDN, Galavisión), the ViX streaming platform, Uforia audio platform, and a suite of advanced advertising technology solutions. The company serves advertisers and media partners through programmatic ad platforms, first-party audience data, and content partnerships.
+TelevisaUnivision (formerly Univision Communications) is the world's leading Spanish-language media company, operating television networks (Univision, UniMás, TUDN, Galavisión), the ViX streaming platform, Uforia audio platform, and a suite of advanced advertising technology solutions. The company serves advertisers and media partners through programmatic ad platforms, first-party audience data, and content partnerships rather than a public developer API.
 
-**Website:** [corporate.televisaunivision.com](https://corporate.televisaunivision.com)
-**GitHub:** [github.com/televisa-univision](https://github.com/televisa-univision)
-**LinkedIn:** [TelevisaUnivision](https://www.linkedin.com/company/televisaunivision)
+**Areas:** Media · Streaming · Hispanic · Advertising · Television · Radio · Content
 
----
+## TelevisaUnivision (Univision Communications) on APIs.io
 
-## Platforms
+Everything profiled for TelevisaUnivision (Univision Communications) is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/univision-communications/](https://apis.io/providers/univision-communications/)** — or go straight to one of the APIs or properties below.
 
-### ViX Streaming Platform
-The world's largest Spanish-language streaming service with over 65,000 hours of content. Offers free ad-supported (ViX Gratis) and premium subscription (ViX Premium) tiers, plus 100+ FAST channels. Available on Amazon Prime Video, Roku, Samsung TV, DIRECTV, T-Mobile, and Hulu.
+### APIs (3)
 
-- [vix.com](https://vix.com)
-- [Advertising on ViX](https://corporate.televisaunivision.com/advertise/solutions/)
+- [ViX Streaming Platform](https://apis.io/apis/univision-communications/vix-streaming/) — ViX is the world's largest Spanish-language streaming service offering over 65,000 hours of content across free (ad-supported) and premium subscription…
+- [TelevisaUnivision Advertising Platform](https://apis.io/apis/univision-communications/advertising-platform/) — TelevisaUnivision's advertising technology platform enables brands and agencies to reach U.S. Spanish-speaking and bilingual audiences through data-driven…
+- [Uforia Audio Platform](https://apis.io/apis/univision-communications/uforia-audio/) — Uforia is the largest Spanish-language audio platform in the United States, operating 40 radio stations and delivering streaming audio content. It provides…
 
-### TelevisaUnivision Advertising Platform
-Advanced advertising technology enabling brands to reach U.S. Spanish-speaking and bilingual audiences through data-driven linear TV, addressable TV, CTV (ViX), and digital channels.
+### Published properties
 
-Features:
-- **Household Graph** — First-party data covering ~100% of U.S. Spanish-speaking households (validated by Truthset)
-- **Turnkey Segments** — Pre-built audience segments for precision targeting
-- **Clean Room** — Privacy-safe data collaboration environment
-- **Advanced Ad Formats** — QR Code Overlays, Shoppable Expand Units, Pause Ads, High Impact Units
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- [Advertising Solutions](https://corporate.televisaunivision.com/advertise/solutions/)
+#### JSON-LD (1)
 
-### Uforia Audio Platform
-The largest Spanish-language audio platform in the United States, operating 40 radio stations and streaming audio content.
+Linked-data contexts for the provider's vocabulary.
 
-- [uforia.com](https://www.uforia.com)
+- [Univision Communications Context](https://apis.io/jsonld/univision-communications/univision-communications-context/)
 
----
+#### Vocabulary (1)
 
-## Television Networks
+The provider's domain terms, defined.
 
-| Network | Type | Focus |
-|---|---|---|
-| Univision | Broadcast (#1 U.S. Hispanic) | General entertainment, news, sports |
-| UniMás | Broadcast | Entertainment, sports, novelas |
-| TUDN | Cable / Broadcast | Sports (soccer, boxing) |
-| Galavisión | Cable | Telenovelas, sports, news |
-| Las Estrellas | Mexican Broadcast | Telenovelas, family programming |
+- [Univision Communications Vocabulary](https://apis.io/vocabularies/univision-communications/univision-communications-vocabulary/)
 
----
+#### Security (1)
 
-## Artifacts
+Authentication, trust centre, and vulnerability disclosure.
 
-### Vocabulary
-Domain vocabulary covering streaming, advertising technology, content, and audience data concepts.
+- [Univision Communications Domain Security](https://apis.io/security/univision-communications/univision-communications-domain-security/)
 
-- [univision-communications-vocabulary.yml](vocabulary/univision-communications-vocabulary.yml)
+#### Plans and pricing (1)
 
-### JSON-LD Context
-Linked data context mapping TelevisaUnivision domain concepts to schema.org and custom ontology terms.
+Published plans, tiers and prices.
 
-- [univision-communications-context.jsonld](json-ld/univision-communications-context.jsonld)
+- [Univision Communications Plans Pricing](https://apis.io/plans/univision-communications/univision-communications-plans-pricing/)
 
----
+#### Rate limits (1)
 
-## APIs Index
+Published request limits.
 
-- [apis.yml](apis.yml)
+- [Univision Communications Rate Limits](https://apis.io/rate-limits/univision-communications/univision-communications-rate-limits/)
 
----
+#### FinOps (1)
 
-*Maintained by [API Evangelist](https://apievangelist.com)*
+What the API costs to run, by operation.
+
+- [Univision Communications Finops](https://apis.io/finops/univision-communications/univision-communications-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://corporate.televisaunivision.com)
+- [Blog](https://corporate.televisaunivision.com/press/press-releases/)
+
+## API Evangelist rating
+
+**Kin Score 15.7** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 62.5 |
+| Contract quality | 14.7 |
+| Contract governance | 13.6 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 11.9 |
+| Access clarity | 5.3 |
+
+**Agent readiness 0.6** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/univision-communications/](https://apis.io/providers/univision-communications/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TelevisaUnivision (Univision Communications): the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/univision-communications/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
